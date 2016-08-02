@@ -1,2 +1,3 @@
 # hello-world
-Just like any other standard repository
+
+My name is Grant and I don't know very much!
